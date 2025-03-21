@@ -7,7 +7,10 @@ Data Analyst | Transforming Raw Data into Meaningful Insights
 🚀 Currently enhancing skills in Advanced Data Analysis and Visualization
 🎯 Enthusiastic about solving real-world business problems with data
 💡 Love working with Python, SQL, and Power BI to uncover insights
+
+
 📧 Reach me at shakebpatel5@gmail.com
+
 🔗 Connect with Me
 
 
