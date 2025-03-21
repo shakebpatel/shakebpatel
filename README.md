@@ -13,6 +13,8 @@ Data Analyst | Transforming Raw Data into Meaningful Insights
 
 🔗 Connect with Me
 
+https://www.linkedin.com/in/shakeb-patel-155a55217/
+
 
 🛠️ Technologies & Tools
 MySQL Pandas Python Scikit-Learn Seaborn Power BI
