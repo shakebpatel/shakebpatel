@@ -32,9 +32,13 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/> </a>
 </p>
 
+<!--
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitimaad&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </p>
+-->
+
+---
