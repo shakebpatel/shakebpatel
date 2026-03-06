@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shakeb Patel</h1>
-<h3 align="center">Data Analyst | Transforming Raw Data into Meaningful Insights</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn) | Machine Learning | Data Visualization | KPI Reporting | Dashboard Development | Excel | Google Sheets</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gitimaad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
