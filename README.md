@@ -6,11 +6,35 @@
 ---
 
 ### 📌 About Me
-- 📊 Passionate about Data Analysis, Machine Learning, and Web Scraping
-- 🚀 Currently enhancing skills in Advanced Data Analysis and Visualization
-- 🎯 Enthusiastic about solving real-world business problems with data
-- 💡 Love working with Python, SQL, and Power BI to uncover insights
-- 📧 Reach me at shakebpatel5@gmail.com
+
+I am a Data Analyst with 1+ year of hands-on experience in transforming raw data into actionable insights that support business decision-making.
+
+Currently working as a Junior Data Analyst at The Ultimate Coders Pvt Ltd, I specialize in data analysis, dashboard development, KPI tracking, and business performance reporting. I work extensively with Python, SQL, Power BI, and Advanced Excel to analyze datasets, build interactive dashboards, and deliver meaningful insights to stakeholders.
+
+My experience includes analyzing large datasets (10,000+ records), performing exploratory data analysis, and creating automated reports that help organizations track performance and optimize operations.
+
+Key areas I work in:
+• Data Analysis and Data Cleaning
+• Dashboard Development (Power BI)
+• SQL Data Extraction and Reporting
+• Python for Data Analysis (Pandas, NumPy, Scikit-Learn)
+• KPI Tracking and Business Performance Analysis
+• Machine Learning Basics (Classification & Clustering)
+
+Some of the projects I have worked on include:
+• Student Performance Analysis
+• Marketing & Lead Conversion Analysis
+• Placement Tracking Dashboard
+• Netflix Data Analysis Dashboard
+• E-Commerce Sales Analysis
+• HR Attrition Analysis
+
+I enjoy solving business problems using data and continuously improving my analytical and technical skills.
+
+Tools & Technologies:
+Data Analyst | SQL | Power BI | Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn) | Machine Learning | Data Visualization | KPI Reporting | Dashboard Development | Excel | Google Sheets
+
+I’m open to new opportunities in Data Analytics and always happy to connect with professionals in the field.
 
 ---
 
