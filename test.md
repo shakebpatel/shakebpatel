@@ -8,6 +8,7 @@
 
 =========
 
+```
 Month 1 - MERN Stack - 70%
     Windows DOS commands
     Frontend
@@ -28,4 +29,11 @@ Month 2 - Good programmer - MUST
     - Regex
 Month 2 - Another backend for future AL/ML/Internal tools
     - Python - 20%
+```
+
 =========
+
+npx create-next-app@latest
+ 
+ 
+ty
