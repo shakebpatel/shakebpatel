@@ -7,7 +7,7 @@
 
 ### 📌 About Me
 
-I am a Data Analyst with 1+ year of hands-on experience in transforming raw data into actionable insights that support business decision-making.
+I am a Data Analyst with 2+ year of hands-on experience in transforming raw data into actionable insights that support business decision-making.
 
 Currently working as a Junior Data Analyst at The Ultimate Coders Pvt Ltd, I specialize in data analysis, dashboard development, KPI tracking, and business performance reporting. I work extensively with Python, SQL, Power BI, and Advanced Excel to analyze datasets, build interactive dashboards, and deliver meaningful insights to stakeholders.
 
